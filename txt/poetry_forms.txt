@@ -1,0 +1,51 @@
+Haiku
+5 *
+7 *
+5 *
+
+Sonnet
+10 A
+10 B
+10 A
+10 B
+10 C
+10 D
+10 C
+10 D
+10 E
+10 F
+10 E
+10 F
+10 G
+10 G
+
+Limerick
+8 A
+8 A
+5 B
+5 B
+8 A
+
+Quintain (English)
+0 A
+0 B
+0 A
+0 B
+0 B
+
+Rondeau
+8 A
+8 A
+8 B
+8 B
+8 A
+8 A
+8 A
+8 B
+4 C
+8 A
+8 A
+8 B
+8 B
+8 A
+4 C
